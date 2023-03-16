@@ -1,3 +1,6 @@
 bread
 milk
 eggs
+corn
+peas
+lettuce
